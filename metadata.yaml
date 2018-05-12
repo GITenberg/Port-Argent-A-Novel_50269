@@ -1,9 +1,13 @@
 _repo: Port-Argent-A-Novel_50269
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Keen, Eliot
     gutenberg_agent_id: '45786'
     url: http://www.gutenberg.org/2009/agents/45786
+covers:
+- cover_type: archival
+  image_path: 50269-h/images/cover.jpg
 creator:
   author:
     agent_name: Colton, Arthur
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '2228'
     url: http://www.gutenberg.org/2009/agents/2228
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50269#Port-Argent-A-Novel
 gutenberg_issued: '2015-10-21'
 gutenberg_type: Text
 identifiers:
